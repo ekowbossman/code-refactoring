@@ -1,12 +1,13 @@
 # code-refactoring
-Update the system to follows accessibility standards
 
+update the website to follow accessibility standards
 ## User Story
 
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
+```
 
 ## Acceptance Criteria
 
@@ -22,8 +23,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
-Screenshots
+```
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
-
-
